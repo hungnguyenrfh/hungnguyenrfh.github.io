@@ -1,0 +1,52 @@
+/* styles_result.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #e0f7fa;
+    color: #01579b;
+    margin: 0;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+    color: #00796b;
+    margin-bottom: 30px;
+}
+
+b {
+    color: #004d40;
+}
+
+.result-container {
+    background-color: #ffffff;
+    border: 2px solid #00796b;
+    border-radius: 8px;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.result-container p {
+    margin: 10px 0;
+    font-size: 18px;
+}
+
+a {
+    color: #00796b;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #004d40;
+    text-decoration: underline;
+}
+
+.horoscope_image img{
+    text-align: center;
+    padding : 40px;
+}
+
